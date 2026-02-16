@@ -36,10 +36,10 @@ Empecé en esto porque me aburría de estar sentado todo el día mirando a una p
 
 ### 🌟 Fun facts
 
-- Escribo código mejor después de las 10 PM (no me preguntes por qué)
+- Me gusta crear hacks para el multijugador del videojuego <strong>Minecraft</strong>
 - Mi ratio de café/código es directamente proporcional
-- He reinventado la rueda unas 47 veces "para aprender"
-- Stack Overflow es mi mejor amigo (y no me avergüenza admitirlo)
+- Tengo una pizarra extremadamente sucia de grafos
+- Github Copilot con Kimi es mi mayor tutor (y no me avergüenza admitirlo)
 
 ---
 
