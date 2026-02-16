@@ -50,14 +50,6 @@ Si quieres colaborar en algo, compartir ideas, o simplemente charlar sobre por q
 - 💼 **LinkedIn**: https://www.linkedin.com/in/acarrerofraile/
 - 📧 **Email**: acarrerofraile@gmail.com
 
-
-### 📊 Mis stats 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uldrens0v&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uldrens0v&layout=compact&theme=radical)
-
-
 <div align="center">
   
 *"Cualquier código que funciona es código perfecto"* - Yo, después de 3 horas debuggeando
