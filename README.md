@@ -5,47 +5,28 @@ Full-stack developer. Finishing DAW (Web Application Development).
 ## Stack
 
 <div align="center">
-
-```
-  Backend          Frontend          DevOps          Databases
-     |                |                |                |
-     v                v                v                v
-```
-
 <table>
 <tr>
-<td align="center" width="300">
-
-<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP"/></a>
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
-<a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></a>
-
+<th>Backend</th>
+<th>Frontend</th>
+<th>DevOps</th>
+<th>Databases</th>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php,java,cs&perline=3" alt="Backend"/>
 </td>
-<td align="center" width="300">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/></a>
-<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" alt="Vue 3"/></a>
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue&perline=3" alt="Frontend"/>
 </td>
-<td align="center" width="300">
-
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
-<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"/></a>
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker,aws&perline=2" alt="DevOps"/>
 </td>
-<td align="center" width="300">
-
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/></a>
-<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a>
-
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3" alt="Databases"/>
 </td>
 </tr>
 </table>
-
 </div>
 
 ## Currently
