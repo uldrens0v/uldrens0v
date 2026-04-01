@@ -4,19 +4,40 @@ Full-stack developer. Finishing DAW (Web Application Development).
 
 ## Stack
 
-**Backend:**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+<div align="center">
 
-**Frontend:**
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+```
+  Backend          Frontend          DevOps
+     |                |                |
+     v                v                v
+```
 
-**DevOps:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+<table>
+<tr>
+<td align="center" width="300">
+
+<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP"/></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
+<a href="https://dotnet.microsoft.com/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></a>
+
+</td>
+<td align="center" width="300">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/></a>
+
+</td>
+<td align="center" width="300">
+
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"/></a>
+<a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"/></a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## Currently
 
