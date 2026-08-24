@@ -1,7 +1,6 @@
 # Andres Carrero Fraile
 
-Full-stack developer. Finishing DAW (Web Application Development).
-
+Full-stack developer located in Madrid, Spain.
 ## Stack
 
 <div align="center">
@@ -32,8 +31,8 @@ Full-stack developer. Finishing DAW (Web Application Development).
 ## Currently
 
 - Building full-stack projects
-- Working with Docker and AWS
-- Developing Minecraft multiplayer tools
+- Working with Docker, AWS and Google Cloud
+- Developing Minecraft modding tools
 
 ## Contact
 
